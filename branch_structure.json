@@ -1,0 +1,18 @@
+{
+  "default_branch": "main",
+  "branches": [
+    "fix/admin-chart-border-colour",
+    "main",
+    "origin"
+  ],
+  "parent": {
+    "fix/admin-chart-border-colour": "main",
+    "main": null,
+    "origin": "main"
+  },
+  "order": [
+    "main",
+    "fix/admin-chart-border-colour",
+    "origin"
+  ]
+}
